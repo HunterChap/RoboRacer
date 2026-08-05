@@ -1,0 +1,30 @@
+# ROS 2 generated folders
+build/
+install/
+log/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+venv_vesc/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backups and archives
+*.backup
+*.bak
+*.zip
+
+# Secrets and local configuration
+.env
+*.key
+*.pem 
+update_backups/
